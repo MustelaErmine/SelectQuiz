@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b86efdc319c24349b775e675902e143, type: 3}
+  m_Name: Option_K
+  m_EditorClassIdentifier: 
+  optionText: K
+  displaySprite: {fileID: -1127063002332224934, guid: b662b1196de9b2e449bad94552c45189, type: 3}
+  displayProps:
+    size: 0.3
+    angle: 0

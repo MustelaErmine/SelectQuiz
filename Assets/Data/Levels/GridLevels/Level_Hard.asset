@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: def46ba33e9c57745834431d0380e74a, type: 3}
+  m_Name: Level_Hard
+  m_EditorClassIdentifier: 
+  atlas: {fileID: 11400000, guid: 386677f9d5814234f955f6dd1c5fdc28, type: 2}
+  spawnerPrefab: {fileID: 7141012495100137785, guid: 78176668ce96f854ba90d5ef830d510b, type: 3}
+  cols: 3
+  rows: 3
+  gridSize: 2.5

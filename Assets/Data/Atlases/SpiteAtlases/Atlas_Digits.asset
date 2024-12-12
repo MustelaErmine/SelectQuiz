@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a6becbc6966d3548b3bf4a02c7fe2fa, type: 3}
+  m_Name: Atlas_Digits
+  m_EditorClassIdentifier: 
+  displayPrefab: {fileID: 5048177160399221013, guid: 4a6ef4012e2e5dd488787f36e423887e, type: 3}
+  options:
+  - {fileID: 11400000, guid: bc8abaedb839b6d41ab5166f9be1ceba, type: 2}
+  - {fileID: 11400000, guid: 9742316a737d84f4989917177117ad82, type: 2}
+  - {fileID: 11400000, guid: df216620e8233894a9cf86b42a3178b0, type: 2}
+  - {fileID: 11400000, guid: 8dea140f93519814882f09180c786c96, type: 2}
+  - {fileID: 11400000, guid: 341b74ea81a8ef944a093efc1b2592df, type: 2}
+  - {fileID: 11400000, guid: 613f4ac7c6722544096135a24f99957a, type: 2}
+  - {fileID: 11400000, guid: e0276f002bf66834490abc9d80bebd43, type: 2}
+  - {fileID: 11400000, guid: 5c01570555b2f344fb90860a8f076966, type: 2}
+  - {fileID: 11400000, guid: 5bb3e2628347af34a88f52321a85e4f9, type: 2}
+  - {fileID: 11400000, guid: c4ec78147a2826d46b9cf9778e080573, type: 2}
